@@ -1,0 +1,2 @@
+model_checkpoint_path: "/volume/home/shuang/project/test/model.ckpt"
+all_model_checkpoint_paths: "/volume/home/shuang/project/test/model.ckpt"
